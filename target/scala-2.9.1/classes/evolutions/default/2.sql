@@ -605,20 +605,6 @@ insert into computer (id,name,introduced,discontinued,company_id) values (557,'D
 insert into computer (id,name,introduced,discontinued,company_id) values (558,'DECmate II',null,null,10);
 insert into computer (id,name,introduced,discontinued,company_id) values (559,'DECmate',null,null,10);
 insert into computer (id,name,introduced,discontinued,company_id) values (560,'DECsystem',null,null,10);
-insert into computer (id,name,introduced,discontinued,company_id) values (561,'NetApp Filer',null,null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (562,'DEC GT40',null,null,10);
-insert into computer (id,name,introduced,discontinued,company_id) values (563,'ecoATM',null,null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (564,'MindWave BrainCubed Education Bundle',null,null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (565,'PalmPilot',null,null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (566,'Upcoming iPhone 5',null,null,1);
-insert into computer (id,name,introduced,discontinued,company_id) values (567,'Dell Inspiron 560 Desktop Computer ',null,null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (568,'IPad 2',null,null,1);
-insert into computer (id,name,introduced,discontinued,company_id) values (569,'HP TouchPad','2011-02-09',null,27);
-insert into computer (id,name,introduced,discontinued,company_id) values (570,'HP Veer','2011-02-09',null,27);
-insert into computer (id,name,introduced,discontinued,company_id) values (571,'Lenovo Thinkpad Edge 11',null,null,36);
-insert into computer (id,name,introduced,discontinued,company_id) values (572,'Dell Vostro',null,null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (573,'Gateway LT3103U','2008-01-01',null,null);
-insert into computer (id,name,introduced,discontinued,company_id) values (574,'iPhone 4S','2011-10-14',null,1);
 
 # --- !Downs
 
