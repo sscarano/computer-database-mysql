@@ -45,6 +45,7 @@ insert into company (id,name) values ( 41,'HTC Corporation');
 insert into company (id,name) values ( 42,'Research In Motion');
 insert into company (id,name) values ( 43,'Samsung Electronics');
 
+insert into computer (id,name,introduced,discontinued,company_id) values (  1,'MacBook Pro 15.4 inch',null,null,1);
 
 # --- !Downs
 
