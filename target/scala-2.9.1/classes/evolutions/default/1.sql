@@ -2,8 +2,6 @@
 
 # --- !Ups
 
-set ignorecase true;
-
 create table company (
   id                        bigint not null,
   name                      varchar(255) not null,
