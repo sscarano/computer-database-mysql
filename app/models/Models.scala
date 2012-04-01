@@ -73,7 +73,7 @@ object Computer {
           select * from computer 
           left join company on computer.company_id = company.id
           where computer.name like {filter}
-          order by {orderBy} nulls last
+          order by {orderBy}
           limit {pageSize} offset {offset}
         """
       ).on(
